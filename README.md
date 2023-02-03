@@ -9,7 +9,7 @@
 
 ## Helper
 
-* [profile-switch](https://github.com/samwhelp/note-about-compiz/tree/gh-pages/_demo/sample/config-start/compiz-1/compizconfig/profile-switch)
+* [compiz-profile-switch](https://github.com/samwhelp/note-about-compiz/tree/gh-pages/_demo/sample/config-start/compiz-1/compizconfig/profile-switch)
 
 
 | profile |
