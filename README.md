@@ -12,6 +12,14 @@
 * [profile-switch](https://github.com/samwhelp/note-about-compiz/tree/gh-pages/_demo/sample/config-start/compiz-1/compizconfig/profile-switch)
 
 
+| profile |
+| --- |
+| [start](https://github.com/samwhelp/note-about-compiz/blob/gh-pages/_demo/sample/config-start/compiz-1/compizconfig/profile-switch/config/start.ini) |
+| [basic](https://github.com/samwhelp/note-about-compiz/blob/gh-pages/_demo/sample/config-start/compiz-1/compizconfig/profile-switch/config/basic.ini) |
+| [wall](https://github.com/samwhelp/note-about-compiz/blob/gh-pages/_demo/sample/config-start/compiz-1/compizconfig/profile-switch/config/wall.ini) |
+| [cube](https://github.com/samwhelp/note-about-compiz/blob/gh-pages/_demo/sample/config-start/compiz-1/compizconfig/profile-switch/config/cube.ini) |
+
+
 ## 相關討論
 
 * 關於「桌面環境」便利操作的按鍵組合設定 - 「[#12](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=364276#forumpost364276)」
