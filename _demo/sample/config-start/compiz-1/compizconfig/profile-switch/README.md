@@ -47,3 +47,4 @@ Ex:
 | [basic](config/basic.ini) |
 | [wall](config/wall.ini) |
 | [cube](config/cube.ini) |
+| [cube-ring](config/cube-ring.ini) |
