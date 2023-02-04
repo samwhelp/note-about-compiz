@@ -53,10 +53,47 @@ Ex:
 
 ## profiles
 
-| profile |
+| basic profile |
 | --- |
 | [start](config/start.ini) |
 | [basic](config/basic.ini) |
+
+| wall profile |
+| --- |
 | [wall](config/wall.ini) |
+
+
+| cube profile |
+| --- |
 | [cube](config/cube.ini) |
-| [cube-ring](config/cube-ring.ini) |
+| [](config/cube-ring-shift-switcher.ini) |
+| [cube-ring-switcher-shift](config/cube-ring-switcher-shift.ini) |
+| [cube-ring-switcher-staticswitcher](config/cube-ring-switcher-staticswitcher.ini) |
+| [cube-shift-ring-switcher](config/cube-shift-ring-switcher.ini) |
+| [cube-shift-switcher-ring](config/cube-shift-switcher-ring.ini) |
+| [cube-shiht-switcher-staticswitcher](config/cube-shiht-switcher-staticswitcher.ini) |
+
+
+## means
+
+
+| workspace switcher |
+| --- |
+| wall |
+| cube |
+
+
+| window switcher |
+| --------------- |
+| ring            |
+| shift           |
+| switcher        |
+| staticswitcher  |
+
+
+| column 1  | column 2 | column 3 | column 4 |
+| --------- | -------- | -------- | -------- |
+| workspace | window   | window   | window   |
+| cube      | ring     | shift    | switcher |
+
+> cube-ring-shift-switcher
