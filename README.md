@@ -40,6 +40,8 @@
 | [cube-shift-switcher-staticswitcher](https://github.com/samwhelp/note-about-compiz/blob/gh-pages/_demo/sample/config-start/compiz-1/compizconfig/profile-switch/config/cube-shift-switcher-staticswitcher.ini) |
 
 
+
+
 ## Mean
 
 | Workspace Switcher |
@@ -67,6 +69,25 @@
 | Keybind  | `Alt + grave_Tab_a_s` | `Win + grave_Tab_a_s` | `Win + k_j_h_l`  | `Win + Up_Down_Left_Right` |
 
 
+## 方向鍵
+
+| 方向  | 按鍵  | 按鍵 | 按鍵  |
+| ----- | ----- | ---- | ----- |
+| 上    | Up    | k    | grave |
+| 下    | Down  | j    | Tab   |
+| 左    | Left  | h    | a     |
+| 右    | Right | l    | s     |
+
+
+> 「grave」 指的是 「`」 ，在「Tab」鍵上方，也就是「~」那個鍵。
+
+
+| 按鍵  | 別名 | 別名  | 別名  |
+| ----- | ---- | ----- | ----- |
+| Alt   | Mod1 |       |       |
+| Win   | Mod4 | Super | Meta  |
+| Ctrl  |      |       |       |
+| Shift |      |       |       |
 
 
 ## 相關討論
