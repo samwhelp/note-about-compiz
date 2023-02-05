@@ -6,8 +6,14 @@
 | [Compiz 探索筆記](https://samwhelp.github.io/note-about-compiz) | [GitHub](https://github.com/samwhelp/note-about-compiz) |
 
 
+## 主題
 
-## Helper
+* [輔助工具](#輔助工具)
+* [Profiles](#profiles)
+* [相關筆記](#相關筆記)
+
+
+## 輔助工具
 
 * [compiz-profile-switch](https://github.com/samwhelp/note-about-compiz/tree/gh-pages/_demo/sample/config-start/compiz-1/compizconfig/profile-switch)
 
@@ -38,8 +44,6 @@
 | [cube-shift-ring-switcher](https://github.com/samwhelp/note-about-compiz/blob/gh-pages/_demo/sample/config-start/compiz-1/compizconfig/profile-switch/config/cube-shift-ring-switcher.ini) |
 | [cube-shift-switcher-ring](https://github.com/samwhelp/note-about-compiz/blob/gh-pages/_demo/sample/config-start/compiz-1/compizconfig/profile-switch/config/cube-shift-switcher-ring.ini) |
 | [cube-shift-switcher-staticswitcher](https://github.com/samwhelp/note-about-compiz/blob/gh-pages/_demo/sample/config-start/compiz-1/compizconfig/profile-switch/config/cube-shift-switcher-staticswitcher.ini) |
-
-
 
 
 ## Mean
@@ -92,8 +96,17 @@
 | Shift |      |       |       |
 
 
+## 相關筆記
+
+| 相關筆記 | GitHub |
+| --- | ---
+| [System Modeling](https://samwhelp.github.io/system-modeling/) | [GitHub](https://github.com/samwhelp/system-modeling) |
+| [Mate 探索筆記](https://samwhelp.github.io/note-about-mate/) | [GitHub](https://github.com/samwhelp/note-about-mate) |
+| [GNOME Flashback 探索筆記](https://samwhelp.github.io/note-about-gnome-flashback/) | [GitHub](https://github.com/samwhelp/note-about-gnome-flashback) |
+| [Ubuntu 探索筆記](https://samwhelp.github.io/note-about-ubuntu/) | [GitHub](https://github.com/samwhelp/note-about-ubuntu) |
+
+
 ## 相關討論
 
 * 關於「桌面環境」便利操作的按鍵組合設定 - 「[#12](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=364276#forumpost364276)」
 * 【分享】適合 Ubuntu MATE 22.04 的面板布局方案 - 「[#35](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=364284#forumpost364284)」，「[#36](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?topic_id=109242&forum=2&post_id=364286#forumpost364286)」
-
