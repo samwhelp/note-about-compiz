@@ -12,12 +12,59 @@
 * [compiz-profile-switch](https://github.com/samwhelp/note-about-compiz/tree/gh-pages/_demo/sample/config-start/compiz-1/compizconfig/profile-switch)
 
 
-| profile |
+## Profiles
+
+| basic profile |
 | --- |
 | [start](https://github.com/samwhelp/note-about-compiz/blob/gh-pages/_demo/sample/config-start/compiz-1/compizconfig/profile-switch/config/start.ini) |
 | [basic](https://github.com/samwhelp/note-about-compiz/blob/gh-pages/_demo/sample/config-start/compiz-1/compizconfig/profile-switch/config/basic.ini) |
-| [wall](https://github.com/samwhelp/note-about-compiz/blob/gh-pages/_demo/sample/config-start/compiz-1/compizconfig/profile-switch/config/wall.ini) |
-| [cube](https://github.com/samwhelp/note-about-compiz/blob/gh-pages/_demo/sample/config-start/compiz-1/compizconfig/profile-switch/config/cube.ini) |
+
+
+| wall profile |
+| --- |
+| [wall-ring-shift-switcher](https://github.com/samwhelp/note-about-compiz/blob/gh-pages/_demo/sample/config-start/compiz-1/compizconfig/profile-switch/config/wall-ring-shift-switcher.ini) |
+| [wall-ring-switcher-shift](https://github.com/samwhelp/note-about-compiz/blob/gh-pages/_demo/sample/config-start/compiz-1/compizconfig/profile-switch/config/wall-ring-switcher-shift.ini) |
+| [wall-ring-switcher-staticswitcher](https://github.com/samwhelp/note-about-compiz/blob/gh-pages/_demo/sample/config-start/compiz-1/compizconfig/profile-switch/config/wall-ring-switcher-staticswitcher.ini) |
+| [wall-shift-ring-switcher](https://github.com/samwhelp/note-about-compiz/blob/gh-pages/_demo/sample/config-start/compiz-1/compizconfig/profile-switch/config/wall-shift-ring-switcher.ini) |
+| [wall-shift-switcher-ring](https://github.com/samwhelp/note-about-compiz/blob/gh-pages/_demo/sample/config-start/compiz-1/compizconfig/profile-switch/config/wall-shift-switcher-ring.ini) |
+| [wall-shift-switcher-staticswitcher](https://github.com/samwhelp/note-about-compiz/blob/gh-pages/_demo/sample/config-start/compiz-1/compizconfig/profile-switch/config/wall-shift-switcher-staticswitcher.ini) |
+
+
+| cube profile |
+| --- |
+| [cube-ring-shift-switcher](https://github.com/samwhelp/note-about-compiz/blob/gh-pages/_demo/sample/config-start/compiz-1/compizconfig/profile-switch/config/cube-ring-shift-switcher.ini) |
+| [cube-ring-switcher-shift](https://github.com/samwhelp/note-about-compiz/blob/gh-pages/_demo/sample/config-start/compiz-1/compizconfig/profile-switch/config/cube-ring-switcher-shift.ini) |
+| [cube-ring-switcher-staticswitcher](https://github.com/samwhelp/note-about-compiz/blob/gh-pages/_demo/sample/config-start/compiz-1/compizconfig/profile-switch/config/cube-ring-switcher-staticswitcher.ini) |
+| [cube-shift-ring-switcher](https://github.com/samwhelp/note-about-compiz/blob/gh-pages/_demo/sample/config-start/compiz-1/compizconfig/profile-switch/config/cube-shift-ring-switcher.ini) |
+| [cube-shift-switcher-ring](https://github.com/samwhelp/note-about-compiz/blob/gh-pages/_demo/sample/config-start/compiz-1/compizconfig/profile-switch/config/cube-shift-switcher-ring.ini) |
+| [cube-shift-switcher-staticswitcher](https://github.com/samwhelp/note-about-compiz/blob/gh-pages/_demo/sample/config-start/compiz-1/compizconfig/profile-switch/config/cube-shift-switcher-staticswitcher.ini) |
+
+
+## Mean
+
+| Workspace Switcher |
+| ------------------ |
+| wall               |
+| cube               |
+
+
+| Window Switcher |
+| --------------- |
+| ring            |
+| shift           |
+| switcher        |
+| staticswitcher  |
+
+
+> Ex: cube-ring-shift-switcher
+
+| Column 1  | Column 2      | Column 3 | Column 4           |
+| --------- | ------------- | -------- | ------------------ |
+| workspace | window        | window   | window             |
+|           | grave_Tab_a_s | k_j_h_l  | Up_Down_Left_Right |
+| cube      | ring          | shift    | switcher           |
+
+
 
 
 ## 相關討論
