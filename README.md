@@ -64,8 +64,6 @@
 
 > Ex: `cube-ring-shift-switcher`
 
-> Ex: `cube-ring-shift-switcher`
-
 | Item     | Column 1              | Column 2              | Column 3         | Column 4                   |
 | -------  | --------------------- | --------------------- | ---------------- | -------------------------- |
 | Subject  | workspace             | window                | window           | window                     |
