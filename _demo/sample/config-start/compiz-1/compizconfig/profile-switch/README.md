@@ -107,7 +107,7 @@ Ex:
 | staticswitcher  |
 
 
-> Ex: cube-ring-shift-switcher
+> Ex: `cube-ring-shift-switcher`
 
 | Column 1  | Column 2      | Column 3 | Column 4           |
 | --------- | ------------- | -------- | ------------------ |
