@@ -115,3 +115,24 @@ Ex:
 | Switcher | cube                  | ring                  | shift            | switcher                   |
 | Keybind  | `Alt + grave_Tab_a_s` | `Win + grave_Tab_a_s` | `Win + k_j_h_l`  | `Win + Up_Down_Left_Right` |
 
+
+## Direction Key
+
+| Key   | Key | Key   |
+| ----- | --- | ----- |
+| Up    | k   | grave |
+| Down  | j   | Tab   |
+| Left  | h   | a     |
+| Right | l   | s     |
+
+> grave means ` (~)
+
+
+## Modifier key
+
+| Key   | Alias | Alias | Alias |
+| ----- | ----- | ----- | ----- |
+| Alt   | Mod1  |       |       |
+| Win   | Mod4  | Super | Meta  |
+| Ctrl  |       |       |       |
+| Shift |       |       |       |
