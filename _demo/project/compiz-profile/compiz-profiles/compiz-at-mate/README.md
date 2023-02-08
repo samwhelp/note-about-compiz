@@ -1,6 +1,12 @@
 
+
 # compiz-at-mate
+
 
 ## Path
 
-* [~/.config/compiz-1/compizconfig/](.)
+| PATH |
+| --- |
+| [~/.config/compiz-1/compizconfig/](.) |
+| [~/.config/compiz-1/compizconfig/config](config)|
+| [~/.config/compiz-1/compizconfig/Default.ini](Default.ini)|
