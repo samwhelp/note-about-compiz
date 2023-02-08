@@ -2,17 +2,6 @@
 
 
 ################################################################################
-### Head: Note
-##
-
-## * https://github.com/samwhelp/skel-project-plan/blob/gh-pages/demo/sh/project/bin/install.sh
-
-##
-### Tail: Note
-################################################################################
-
-
-################################################################################
 ### Head: Init
 ##
 
@@ -29,27 +18,34 @@ source "${THE_SUB_PROFLIE_EXT_DIR_PATH}/init.sh"
 
 
 ################################################################################
-### Head: Model / Main
-##
-
-mod_main () {
-
-	mod_profile_cube_apply
-
-	return 0
-}
-
-##
-### Tail: Model / Main
-################################################################################
-
-
-################################################################################
 ### Head: Main
 ##
 
 __main__ () {
-	mod_main "$@"
+
+cat << EOF
+
+Usage:
+
+	$ make [action]
+
+Example:
+
+	$ make
+	$ make help
+
+	$ make apply
+
+	$ make fetch
+
+	$ make sync
+
+
+Debug:
+	$ export DEBUG_HELPER=true
+
+EOF
+
 }
 
 __main__ "$@"

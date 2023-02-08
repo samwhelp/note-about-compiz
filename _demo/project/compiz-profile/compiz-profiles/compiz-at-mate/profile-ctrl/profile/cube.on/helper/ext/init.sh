@@ -1,15 +1,3 @@
-#!/usr/bin/env bash
-
-
-################################################################################
-### Head: Note
-##
-
-## * https://github.com/samwhelp/skel-project-plan/blob/gh-pages/demo/sh/project/bin/install.sh
-
-##
-### Tail: Note
-################################################################################
 
 
 ################################################################################
@@ -17,11 +5,11 @@
 ##
 
 ##
-## Base
+## Load Main Ext
 ##
-THE_BASE_DIR_PATH="$(cd -- "$(dirname -- "$0")" ; pwd)"
-THE_SUB_PROFLIE_EXT_DIR_PATH="${THE_BASE_DIR_PATH}/../ext"
-source "${THE_SUB_PROFLIE_EXT_DIR_PATH}/init.sh"
+THE_MAIN_EXT_DIR_PATH="${THE_SUB_PROFLIE_EXT_DIR_PATH}/../../../../system/ext"
+source "${THE_MAIN_EXT_DIR_PATH}/init.sh"
+
 
 ##
 ### Tail: Init
@@ -29,31 +17,51 @@ source "${THE_SUB_PROFLIE_EXT_DIR_PATH}/init.sh"
 
 
 ################################################################################
-### Head: Model / Main
+### Head: Init / Base
 ##
 
-mod_main () {
+source "${THE_SUB_PROFLIE_EXT_DIR_PATH}/base.sh"
 
-	mod_profile_cube_apply
+mod_demo_base_var_init
 
-	return 0
-}
+mod_demo_base_var_dump
+
 
 ##
-### Tail: Model / Main
+### Tail: Init / Base
 ################################################################################
 
 
 ################################################################################
-### Head: Main
+### Head: Init / Function / System
 ##
 
-__main__ () {
-	mod_main "$@"
-}
+##
+## Load System Function
+##
 
-__main__ "$@"
+source "${THE_MAIN_SYS_CORE_DIR_PATH}/init.sh"
+source "${THE_MAIN_SYS_SUB_PROFILE_DIR_PATH}/init.sh"
+
 
 ##
-### Tail: Main
+### Tail: Init / Function / System
 ################################################################################
+
+
+################################################################################
+### Head: Init / Function / Module
+##
+
+##
+## Load Module Function
+##
+
+source "${THE_SUB_PROFILE_DEMO_EXT_DIR_PATH}/core.sh"
+
+
+##
+### Tail: Init / Function / Module
+################################################################################
+
+

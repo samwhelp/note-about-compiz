@@ -16,12 +16,20 @@
 ### Head: Init
 ##
 
+
 ##
 ## Base
 ##
 THE_BASE_DIR_PATH="$(cd -- "$(dirname -- "$0")" ; pwd)"
-THE_SUB_PROFLIE_EXT_DIR_PATH="${THE_BASE_DIR_PATH}/../ext"
-source "${THE_SUB_PROFLIE_EXT_DIR_PATH}/init.sh"
+THE_MAIN_EXT_DIR_PATH="${THE_BASE_DIR_PATH}/../ext"
+source "${THE_MAIN_EXT_DIR_PATH}/init.sh"
+
+
+##
+## Extra
+##
+source "${THE_MAIN_SYS_CORE_DIR_PATH}/init.sh"
+
 
 ##
 ### Tail: Init
@@ -34,9 +42,8 @@ source "${THE_SUB_PROFLIE_EXT_DIR_PATH}/init.sh"
 
 mod_main () {
 
-	mod_profile_cube_apply
+	sys_demo
 
-	return 0
 }
 
 ##
