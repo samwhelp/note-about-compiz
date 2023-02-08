@@ -1,2 +1,2 @@
 
-# demo
+# compiz-profile / cube / helper
