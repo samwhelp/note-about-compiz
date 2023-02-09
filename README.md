@@ -11,7 +11,7 @@
 * [輔助工具](#輔助工具)
 * [Profiles](#profiles)
 * [相關筆記](#相關筆記)
-
+* [按鍵操作快速上手指南](https://samwhelp.github.io/system-modeling/read/zh_tw/quick-start)
 
 ## 輔助工具
 
@@ -80,18 +80,23 @@
 | 左    | Left  | h    | a     |
 | 右    | Right | l    | s     |
 
-
 > 「grave」 指的是 「`」 ，在「Tab」鍵上方，也就是「~」那個鍵。
 
 
 ## 修飾鍵
 
-| 按鍵  | 別名 | 別名  | 別名  |
-| ----- | ---- | ----- | ----- |
-| Alt   | Mod1 |       |       |
-| Win   | Mod4 | Super | Meta  |
-| Ctrl  |      |       |       |
-| Shift |      |       |       |
+| 按鍵  | 別名 | 別名      | 別名  |
+| ----- | ---- | ------- | ----- |
+| Alt   | Mod1 |         |       |
+| Win   | Mod4 | Super   | Meta  |
+| Ctrl  |      | Control |       |
+| Shift |      |         |       |
+
+* [轉換鍵](https://zh.wikipedia.org/zh-tw/轉換鍵) ([Alt](https://en.wikipedia.org/wiki/Alt_key))
+* [超級鍵](https://zh.wikipedia.org/zh-tw/超級鍵) ([Super](https://en.wikipedia.org/wiki/Super_key_(keyboard_button)))
+* [Windows鍵](https://zh.wikipedia.org/zh-tw/Windows鍵) ([Win](https://en.wikipedia.org/wiki/Windows_key))
+* [控制鍵](https://zh.wikipedia.org/zh-tw/控制鍵) ([Ctrl](https://en.wikipedia.org/wiki/Control_key))
+* [換檔鍵](https://zh.wikipedia.org/zh-tw/換檔鍵) ([Shift](https://en.wikipedia.org/wiki/Shift_key))
 
 
 ## 相關筆記
