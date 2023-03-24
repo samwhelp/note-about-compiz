@@ -56,9 +56,8 @@ base_var_init () {
 
 	THE_PLAN_DIR_PATH="$(find_dir_path "$THE_MAIN_EXT_DIR_PATH/../../.")"
 
+	THE_MAIN_DIR_PATH="$(find_dir_path "$THE_MAIN_EXT_DIR_PATH/../.")"
 
-	THE_MAIN_DIR_NAME="system"
-	THE_MAIN_DIR_PATH="$THE_PLAN_DIR_PATH/$THE_MAIN_DIR_NAME"
 
 	THE_MAIN_BIN_DIR_NAME="bin"
 	THE_MAIN_BIN_DIR_PATH="$THE_MAIN_DIR_PATH/$THE_MAIN_BIN_DIR_NAME"
@@ -148,10 +147,8 @@ base_var_dump () {
 
 	util_debug_echo "THE_PLAN_DIR_PATH=$THE_PLAN_DIR_PATH"
 
-
-
-	util_debug_echo "THE_MAIN_DIR_NAME=$THE_MAIN_DIR_NAME"
 	util_debug_echo "THE_MAIN_DIR_PATH=$THE_MAIN_DIR_PATH"
+
 
 	util_debug_echo "THE_MAIN_BIN_DIR_NAME=$THE_MAIN_BIN_DIR_NAME"
 	util_debug_echo "THE_MAIN_BIN_DIR_PATH=$THE_MAIN_BIN_DIR_PATH"
