@@ -8,10 +8,21 @@
 
 ## 主題
 
+* [按鍵綁定](#按鍵綁定)
 * [輔助工具](#輔助工具)
 * [Profiles](#profiles)
 * [相關筆記](#相關筆記)
 * [按鍵操作快速上手指南](https://samwhelp.github.io/system-modeling/read/zh_tw/quick-start)
+
+
+
+## 按鍵綁定
+
+| 按鍵綁定 |
+| --- |
+| [鍵盤](https://samwhelp.github.io/note-about-compiz/read/config/keybind.html) |
+| [滑鼠](https://samwhelp.github.io/note-about-compiz/read/config/mousebind.html) |
+
 
 ## 輔助工具
 
